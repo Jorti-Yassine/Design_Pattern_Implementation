@@ -1,2 +1,1 @@
-# Design_Pattern_Implementation
- 
+This repo contains all the Design pattern implementation
